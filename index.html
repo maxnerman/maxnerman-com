@@ -7,13 +7,10 @@
 	<style>
 	
 	body {
-		padding: 5em;
 		line-height: 1.5;
-		
 		font-family: monospace;
 		background-color: #131d27;
 		color: white;
-		font-size: 1.4em;
 	}
 	a {
 		color: #1c93df;
@@ -23,10 +20,16 @@
 	    max-width: 20%;
 	    border-radius: 50%;
 	}
+	@media (min-width: 600px) {
+	  body {
+	    padding: 5em;
+	    font-size: 1.4em;
+	  }
+	}
 	@media (max-width: 600px) {
 	  body {
-	    padding: 2em !important;
-	    font-size: 1.2em !important;
+	    padding: 2em;
+	    font-size: 1.2em;
 	  }
 	}
 </style>
