@@ -1,2 +1,2 @@
 # maxnerman-com
-Min portfölj
+My personal site 
