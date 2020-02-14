@@ -1,2 +1,2 @@
 # maxnerman-com
-My personal site 
+My portfolio site 
